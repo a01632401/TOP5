@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="cache-control" content="no-cache"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><style type="text/css">.lw { 
+    webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    -webkit-box-shadow: -15px -15px 0px #FFC0CB;
+    -moz-box-shadow: -15px -15px 0px #FFC0CB;
+    box-shadow: -15px -15px 0px #FFC0CB;
+    border: 3px solid #FFF5EE;
+    background-color: #F08080;
+    padding: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12pt;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+ .banda {
+   webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    border-radius: 17px;
+    background-color: #F2C080;
+    padding: 10px;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12pt;
+    color: #FFFFFF;
+    text-align: center;
+   
+ }</style>
+
+
+<title>HTML, CSS and JavaScript demo</title>
+</head>
+<body>
+<!-- THE ONLY VALID MUSIC LIST I'VE EVER CREATED (2019 VER.) -->
+
+  <p class="lw">MY TOP 5 MUSIC CHOICES:</p>
+<p class="parrafo">Hello world, here I'll present to you a list of my top 5 most listened artists on Spotify. The list goes as following: </p>
+  
+  <p class="banda">TWICE</p>
+  <img src="https://los40es00.epimg.net/los40/imagenes/2019/04/23/album/1556025303_566086_1556025474_noticia_normal.jpg">
+  
+ <p class="parrafo">TWICE es un grupo de chicas surcoreano formado por 9 miembros. Las escucho desde el año pasado, una amiga me invitó a comer a un restaurante coreano y estaban saliendo en Televisión. El primer video que vi de ellas es <a href="https://www.youtube.com/watch?v=i0p1bmr0EmE">'What is Love?'</a>. Sus canciones son muy pegajosas y los videos tienen muchos colores, me gusta eso. No sé por qué fue el primer artista que salió, pero las respeto por eso. </p>
+
+  <p class="banda">JONAS BROTHERS</p>
+   <img src="https://pmchollywoodlife.files.wordpress.com/2019/06/jonas-brothers-premiere-new-song-on-songland-ftr.jpg?w=620">
+  
+  <p class="parrafo">Los Jonas Brothers aparecieron en mi vida gracias a Disney Channel cuando tenía como 11 o 12 años, no sé, iba en primaria y tenía un cuaderno lleno de fotos de ellos que recortaba de revistas. El primer video de ellos que vi (en la tele) fue <a href="https://www.youtube.com/watch?v=PHbnoZHcDxw">'Hold On'</a>. Eran algo más edgy que el promedio, supongo, así que dije ''ah, cool.'' </p>
+  
+  <p class="banda">REIK</p>
+  <img src="https://www.telemundo.com/sites/nbcutelemundo/files/styles/promotional_content_16_9_small/public/images/gallery/2019/04/24/reik-en-el-backstage-de-premios-billboard.jpg">
+  
+    <p class="parrafo">No tengo memoria de qué fue lo primero que escuché de Reik, porque creo que es una banda que está en el subconsciente colectivo de todos nosotros. Sí me acuerdo que una canción que tuve en loop todo tercero de secundaria fue <a href="https://www.youtube.com/watch?v=QZKrLIoMyxY">'Yo quisiera'</a>. Los amores no correspondidos arruinan la infancia. </p>
+  
+  <p class="banda">ELTON JOHN</p>
+  <img src="https://www.prucenter.com/assets/news-thumbnails/_607x366_crop_center-center/elton.jpg">
+  
+  <p class="parrafo">Empecé a escuchar a Elton John hace como tres meses, por la película de Rocketman, y luego descubrí que era mi espítiru existencial. La canción que más me gusta de él es  <a href="https://www.youtube.com/watch?v=DDOL7iY8kfo">'Goodbye Yellow Brick Road'</a>. Quisiera saber cantar, para cantar todas sus canciones y poder vestirme igual que él sin que nadie me juzgue. </p>
+  
+  <p class="banda">EXO</p>
+  <img src="https://data.whicdn.com/images/311779466/original.jpg?t=1525400760">
+  
+  <p class="parrafo">Desde que este grupo de kpop debutó, robaron mi alma y mi dinero, creo que es el artista del que más compré merch. Tengo como cinco pósters y álbumes de fotos, tarjetas, bueno, muchas cosas. Mi canción favorita (o de mis favoritas, porque en serio su música es 100% lo que busco en la vida)  es <a href="https://www.youtube.com/watch?v=yWfsla_Uh80">'CALL ME BABY'</a>. Quisiera saber cantar, para cantar todas sus canciones y poder vestirme igual que él sin que nadie me juzgue. </p>
+  
+  
+
+<!-- End of code uwu -->
+
+<script>// Write JavaScript here </script></body>
